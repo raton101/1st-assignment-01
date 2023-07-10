@@ -103,7 +103,37 @@
     margin: 250px 310px 100px 310px;
 
 }
+.svn{
+    font-size: 50px;
+    padding: 20px;
+}
+.svne{
+    
+    font-size: 15px;
+    padding: 15px;
+    margin-left: 10px;
+}
+.sevenpic{
 
+}
+.btntow{
+    background-color: rgb(214, 48, 48);
+    color: aliceblue;
+    padding:10px;
+    margin-top:20px;
+    margin-left:20px ;
 
-   
-
+}
+.off{
+    color: red;
+}   
+.sevennn{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(187, 133, 63);
+    padding: 0px;
+    gap: 100px;
+}
+.seven{
+    padding-top: 100px;
+}
