@@ -133,7 +133,29 @@
     background-color: rgb(187, 133, 63);
     padding: 0px;
     gap: 100px;
+    margin-bottom: 50px;
+
 }
 .seven{
     padding-top: 100px;
+}
+.eighttt{
+    font-size: 50px;
+
+}
+.eightt{
+    font-size: 10px;
+    padding: 25px;
+
+}
+.eight{
+    text-align: center;
+    padding: 50px;
+}
+.fl{
+   display: flex;
+   gap: 40px;
+   margin: 50px 100px 50px 250px
+
+    
 }
