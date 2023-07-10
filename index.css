@@ -25,20 +25,73 @@
     display:flex;
     justify-content: space-around;
     background-color: #dd9f4d;
-    margin: 0px;
+    
 }
 .one img{
     width: 400px;
     height: 400px;
     margin-bottom: 0px;
+    padding-top:200px;
 }
-.tow{
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+.three{
+    text-align: center;
+    padding: 10px;
+    font-size: 10px;
+
+}
+.six{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+    padding-top: 50px;
+}
+.five{
+    height: 250px;
+    width: 250px;
+    padding-top: 255px;
+    padding-left: 100px;
+    gap: 50px;
 }
 
+.fl-title{
+    font-size: 15px;
+    text-align: center;
+    
 
+}
+.four{
+    height: 500px;
+    width: 450px;
+    background-color: rgb(184, 104, 131);
+    padding: 5px;
+    
 
+}
+.imeagee{
+    padding: 0px;
+}
+.thirdpick{
+    display: flex;
+    justify-content:center;
+}
+
+.fou{
+    height: 500px;
+    width: 450px;
+    background-color:rgb(75, 131, 75);
+    padding: 5px;
+    
+
+}
+
+.fouree{
+    height: 500px;
+    width: 450px;
+    background-color: rgb(153, 48, 167);
+    padding: 5px;
+    
+
+}
 
 
 
