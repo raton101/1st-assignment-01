@@ -6,7 +6,7 @@
 .title{
     font-size: 50px ;
     padding-bottom: 0px;
-    padding-top: 40px;
+    padding-top: 150px;
 
 }
 .description{
@@ -20,6 +20,8 @@
     color: aliceblue;
     padding:10px;
     margin-top:20px;
+    width: 150px;
+    height: 50px;
 }
 .fst-containar{
     display:flex;
@@ -45,14 +47,6 @@
     font-size: 50px;
     padding-top: 50px;
 }
-.five{
-    height: 250px;
-    width: 250px;
-    padding-top: 255px;
-    padding-left: 100px;
-    gap: 50px;
-}
-
 .fl-title{
     font-size: 15px;
     text-align: center;
@@ -60,13 +54,44 @@
 
 }
 .four{
+    background-color: plum;
     height: 500px;
-    width: 450px;
-    background-color: rgb(184, 104, 131);
-    padding: 5px;
-    
-
+    width:400px ;
+    border-radius: 200px 200px 0px 0px;  
 }
+.fourone{
+    background-color: rgb(51, 160, 57);
+    height: 500px;
+    width:400px ;
+    border-radius: 200px 200px 0px 0px;  
+}
+
+.fourone img {
+    height: 300px;
+    width: 250px;
+    padding: 30px;
+    margin-bottom: 0px;
+    padding-top: 200px;
+    padding-left: 60px;
+
+}  
+
+.fourtow{
+    background-color: rgb(51, 64, 182);
+    height: 500px;
+    width:400px ;
+    border-radius: 200px 200px 0px 0px;  
+}
+
+.fourtow img {
+    height: 300px;
+    width: 250px;
+    padding: 30px;
+    margin-bottom: 0px;
+    padding-top: 200px;
+    padding-left: 60px;
+
+}  
 .imeagee{
     padding: 0px;
 }
@@ -75,32 +100,34 @@
     justify-content:center;
 }
 
-.fou{
-    height: 500px;
-    width: 450px;
-    background-color:rgb(75, 131, 75);
-    padding: 5px;
-    
 
+.four img {
+    height: 300px;
+    width: 250px;
+    padding: 30px;
+    margin-bottom: 0px;
+    padding-top: 200px;
+    padding-left: 60px;
+
+}   
+
+  
+.fourrr{
+    text-align: center;
+    padding-top: 25px;
+    text-decoration: underline;
 }
 
-.fouree{
-    height: 500px;
-    width: 450px;
-    background-color: rgb(153, 48, 167);
-    padding: 5px;
-    
-
-}
 .emoje{
     height: 50px;
     width: 50px;
-    padding-left: 300px;
+    padding-left: 290px;
 }
 .emg-emg{
+    display: flex;
     background-color: #d48f34;
     padding: 100px;
-    margin: 250px 310px 100px 310px;
+    margin: 250px 310px 100px 300px;
 
 }
 .svn{
@@ -122,6 +149,8 @@
     padding:10px;
     margin-top:20px;
     margin-left:20px ;
+    height: 50px;
+    width: 150px;
 
 }
 .off{
@@ -157,5 +186,43 @@
    gap: 40px;
    margin: 50px 100px 50px 250px
 
+    
+}
+.nineeee{
+    font-size: 50px;
+    padding: 30px;
+
+}
+.nineee{
+    font-size: 20px;
+    padding: 30px;
+
+}
+.ninee{
+    text-align: center;
+    margin-top: 100px;
+    background-image: url("picture/Rectangle 9.png");
+    background-size: cover;
+    margin: 50px 280px 50px 250px;
+    padding: 100px;
+
+   
+   
+}
+.intp{
+    width: 700px;
+    height: 50px;
+    padding-left: 10px;
+}
+.nt{
+    height: 50px;
+    width: 100px;
+}
+.floweerr{
+    display:flex;
+    margin-top: 100px;
+    justify-content:center;
+    gap: 40px;
+    
     
 }
